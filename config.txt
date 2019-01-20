@@ -1,6 +1,6 @@
 token=NTM2NjI5OTE3MDIzMDc2Mzgz.DyZfdA.mUHTMn-cpszqq-6y1dRy8i20CNo
-owner=521341978659651596
-prefix= A
+owner=294904667274739712
+prefix= AA
 game= AA
 stayinchannel=true
 songinstatus=false
